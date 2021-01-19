@@ -2,10 +2,6 @@
 
 > This syllabus is intended to give students guidance in what may be covered during the semester and will be followed as closely as possible. However, the instructor reserves the right to modify, supplement and make changes as course needs arise.
 
-**Description:**
-
-A research and production oriented workshop leading to a collective networked interactive environment, using experience, performance, sound and video as our material. We will make one or more collective yet localized environment/s, object/s and/or performance/s, so please introduce us to your related readings, concerns, projects and skills and we will see what we can make together. We&#39;ll touch on the following skills to create our experiences: project development, computer programming, networking, basic electronics, audio and video production, and any skills that you bring to our workshop.
-
 - [Sound as Object: Media, Space](#sound-as-object-media-space)
   - [Course Information](#course-information)
   - [Instructor Information](#instructor-information)
@@ -17,19 +13,25 @@ A research and production oriented workshop leading to a collective networked in
     - [Technology Requirements](#technology-requirements)
     - [Required Reading / Materials](#required-reading--materials)
     - [Additional Resources](#additional-resources)
+      - [Materials](#materials)
+      - [Communities](#communities)
   - [Grading/Evaluation](#gradingevaluation)
   - [Course Policies &amp; Expectations](#course-policies--expectations)
     - [Class Engagement Policy](#class-engagement-policy)
     - [In-Class Behavior](#in-class-behavior)
     - [Class Climate &amp; Inclusivity](#class-climate--inclusivity)
-    - [Forms of Address: Names and Pronouns](#forms-of-address-names-and-pronouns)
-    - [Point of View](#point-of-view)
-    - [Discussion Guidelines](#discussion-guidelines)
+      - [Forms of Address: Names and Pronouns](#forms-of-address-names-and-pronouns)
+      - [Point of View](#point-of-view)
+      - [Discussion Guidelines](#discussion-guidelines)
     - [Missing Class Due to COVID-19](#missing-class-due-to-covid-19)
   - [Institute Policies](#institute-policies)
   - [Student Services](#student-services)
 
 ## Course Information
+
+**Description:**
+
+A research and production oriented workshop leading to a collective networked interactive environment, using experience, performance, sound and video as our material. We will make one or more collective yet localized environment/s, object/s and/or performance/s, so please introduce us to your related readings, concerns, projects and skills and we will see what we can make together. We&#39;ll touch on the following skills to create our experiences: project development, computer programming, networking, basic electronics, audio and video production, and any skills that you bring to our workshop.
 
 - **Course Code:** ATEK/IIMC-560-01, IIMC 360-01
 - **Semester &amp; Year:** Spring 2021
@@ -40,9 +42,9 @@ A research and production oriented workshop leading to a collective networked in
 ## Instructor Information
 
 - **Instructor:** Stephanie Smith
-- **Pronoun** : she/her/hers
+- **Pronoun**: she/her/hers
 - **Email:** scsmith@calarts.edu
-- **How and when to contact the instructor** : Discord is the best way to stay in touch with the me and with the class. If you are unable to access Discord, email is the best method.
+- **How and when to contact the instructor**: Discord is the best way to stay in touch with the me and with the class. If you are unable to access Discord, email is the best method.
 - **Office Hours:** TBA
 - **Teaching Assistant:** Autumn Rogers – autumn.rogers@alum.calarts.edu
 
@@ -124,7 +126,7 @@ The following readings will be provided to you and assigned throughout the semes
 
 ### Additional Resources
 
-Materials
+#### Materials
 
 - [sparkfun.com](http://sparkfun.com/) - online store
 - [adafruit.com](http://adafruit.com/) - online store
@@ -132,7 +134,7 @@ Materials
 - [All Electronics](https://www.allelectronics.com/) - electronics store in LA
 - [Apex Electronics](https://www.apexsurplus.com/) - electronics surplus store in LA
 
-Communities
+#### Communities
 
 - [Dorkbot SoCal](https://dorkbot.org/dorkbotsocal/) (or [in your area](https://dorkbot.org/))
 - [Adafruit on Discord](https://discord.gg/adafruit)
@@ -146,6 +148,8 @@ Communities
 | Final Project             | 34%    |
 
 **Evaluation Criteria:** Assignments are evaluated on level of effort and participation. This does not mean the work has to be complex, but just that you tried. For instance, programming assignments should demonstrate effort even if they are not totally functional (i.e. a copy-pasted tutorial is not acceptable, however a modified tutorial to support an artistic concept is). Group assignments are evaluated on members&#39; level of participation.
+
+---
 
 ## Course Policies &amp; Expectations
 
@@ -165,17 +169,17 @@ Communities
 
 ### Class Climate &amp; Inclusivity
 
-### Forms of Address: Names and Pronouns
+#### Forms of Address: Names and Pronouns
 
 CalArts recognizes the importance of a diverse student body, and we are committed to fostering equitable classroom environments. You are invited, if you wish, to tell us how you want to be referred to both in terms of your name and your pronouns (he/him, she/her, they/them, etc.). The pronouns someone indicates are not necessarily indicative of their gender identity.
 
 Additionally, how you identify in terms of your gender, race, class, sexuality, religion, and dis/ability, among all aspects of your identity, is your choice whether to disclose (e.g. should it come up in classroom conversation about experiences and perspectives) and should be self-identified, not presumed or imposed.
 
-### Point of View
+#### Point of View
 
 The readings, class lecture, and my comments in class will suggest a particular point of view. This perspective is my own and **does not have to be yours**. I encourage you to respectfully disagree with the ideas in the readings and lectures as well as the perspectives of your colleagues in the course. **Please express yourself**. A significant part of an education is learning about the complexity of various issues. Therefore, it is important that we listen and respect one another but we do not have to agree. A richer discussion will occur when a variety of perspectives are presented in class for discussion.
 
-### Discussion Guidelines
+#### Discussion Guidelines
 
 In order to learn, we must be open to the views of people different from ourselves. In this time we share together over the semester, please honor the uniqueness of your fellow classmates and appreciate the opportunity we have to learn from one another. Please respect each others&#39; opinions and refrain from personal attacks or demeaning comments of any kind. Finally, remember to keep confidential all issues of a personal or professional nature that are discussed in class.
 
@@ -193,17 +197,15 @@ Students who are ill, under quarantine for COVID-19, or suspect they are ill wil
 - [Sexual Respect](https://calarts.edu/life-at-calarts/support-and-advocacy/sexual-respect)
 - [Copyright](https://library.calarts.edu/filmimageservices/copyright)
 
-[**Plagiarism**](https://policies.calarts.edu/all-policies/plagiarism) **:** Plagiarism is the use of ideas and/or quotations (from the Internet, books, films, television, newspapers, articles, the work of other students, works of art, media, etc.) without proper credit to the author/artist. While the argument in a paper can be enhanced by research, students are cautioned to delineate clearly their own original ideas from source material. Students should introduce source material (either quoted or paraphrased); note when the source material ends; and provide citations for source materials using standard documentation formats.
+**[Plagiarism](https://policies.calarts.edu/all-policies/plagiarism):** Plagiarism is the use of ideas and/or quotations (from the Internet, books, films, television, newspapers, articles, the work of other students, works of art, media, etc.) without proper credit to the author/artist. While the argument in a paper can be enhanced by research, students are cautioned to delineate clearly their own original ideas from source material. Students should introduce source material (either quoted or paraphrased); note when the source material ends; and provide citations for source materials using standard documentation formats.
 
 Students who misrepresent source material as their own original work and fail to credit it have committed plagiarism and are subject to disciplinary action, as determined by the faculty member, the dean of the student&#39;s school and the Office of the Provost. If you have questions regarding plagiarism or would like direction on how to credit source material, there are reference guides on permanent reserve in the CalArts library. Please contact one of the CalArts reference librarians for more information.
 
-[**Disability Services**](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services) **:** CalArts is committed to providing reasonable accommodations in compliance with ADA of 1990 and Section 504 of the Rehabilitation Act of 1973 to students with documented disabilities or otherwise documented. If you are a student requesting accommodations for equal access to this course, please register with the Disability Services Office, for the facilitation and verification of need. The Disability Services Office will meet with students and communicate with their faculty about appropriate and reasonable classroom accommodations. Students are encouraged to use these procedures early in the semester, so that the proper arrangements can be in place throughout this course. Any and all reasonable efforts will be made to accommodate our students. The Disability Services Office is located in the Office of Student Experience in A207, and can be contacted by emailing [DSO@calarts.edu](mailto:DSO@calarts.edu). Check out the [Disability Services](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services) webpage at [https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services) for more information.
+**[Disability Services](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services):** CalArts is committed to providing reasonable accommodations in compliance with ADA of 1990 and Section 504 of the Rehabilitation Act of 1973 to students with documented disabilities or otherwise documented. If you are a student requesting accommodations for equal access to this course, please register with the Disability Services Office, for the facilitation and verification of need. The Disability Services Office will meet with students and communicate with their faculty about appropriate and reasonable classroom accommodations. Students are encouraged to use these procedures early in the semester, so that the proper arrangements can be in place throughout this course. Any and all reasonable efforts will be made to accommodate our students. The Disability Services Office is located in the Office of Student Experience in A207, and can be contacted by emailing [DSO@calarts.edu](mailto:DSO@calarts.edu). Check out the [Disability Services](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services) webpage at [https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services](https://calarts.edu/life-at-calarts/support-and-advocacy/disability-services) for more information.
 
 **Copyright Material:**
 
-All Faculty should include the following on their syllabus:
-
-&quot;The materials on this course and made available to students through the course site are only for the use of students enrolled in this course for purposes associated with this course, and may not be retained or further disseminated. The materials on this course website are protected by copyright; any further use of this material may be in violation of U.S. copyright law.&quot;
+The materials on this course and made available to students through the course site are only for the use of students enrolled in this course for purposes associated with this course, and may not be retained or further disseminated. The materials on this course website are protected by copyright; any further use of this material may be in violation of U.S. copyright law.
 
 ## Student Services
 
