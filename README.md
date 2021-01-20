@@ -50,9 +50,26 @@ A research and production oriented workshop leading to a collective networked in
 
 ## Calendar/Schedule
 
-Lecture topics will be announced prior to each class and are subject to change depending on the trajectory of the group.
+Topics and class formats are subject to change depending on the trajectory of the group.
 
-[TBA]
+| #   | Date  | Format            | Topic                          | Secondary Topics                                   |
+| --- | ----- | :---------------- | ------------------------------ | :------------------------------------------------- |
+| 01  | 01/26 | Intro and Lecture | **Arduino**                    | Orientation                                        |
+| 02  | 02/02 | Lecture           | **Arduino**                    | Simple LED programs using operators                |
+| 03  | 02/09 | Group activity    | **Arduino**                    |                                                    |
+| 04  | 02/16 | Lecture           | **Arduino**                    | Using sensors (IR sensor, photocell, multitasking) |
+| 05  | 02/23 | Group activity    | **Arduino**                    |                                                    |
+| 06  | 03/02 | Lecture           | **Processing**                 | Simple graphics and media                          |
+| 07  | 03/09 | Group activity    | **Processing**                 |                                                    |
+| 08  | 03/16 | Lecture           | **Processing** + Arduino       | Adding sensors via arduino                         |
+| 09  | 03/23 | Group activity    | **Processing** + Arduino       |                                                    |
+| --  | 03/30 | Spring Break      | --                             | --                                                 |
+| 10  | 04/06 | Lecture           | **Web APIs**                   | Sending and receiving data remotely                |
+| 11  | 04/13 | Group activity    | **Web APIs**                   |                                                    |
+| 12  | 04/20 | Lecture           | Floating Topic                 | Dependent on class trajectory                      |
+| 13  | 04/27 | Group activity    | **Final Project Planning**     | Project development                                |
+| 14  | 05/04 | Group activity    | **Final Project**              |                                                    |
+| 15  | 05/11 | Group activity    | **Final Project Presentation** |                                                    |
 
 ## Student Learning Outcomes
 
@@ -64,21 +81,21 @@ Lecture topics will be announced prior to each class and are subject to change d
 
 ## Course Organization/Method of Instruction
 
-The goal of this course is to create an interactive work _together_. To achieve this, we&#39;ll adopt a philosophy to &quot;embrace unpredictability in the medium and with each other.&quot;
+The goal of this course is to create an interactive work _together_. To achieve this, we&#39;ll adopt a philosophy to _embrace unpredictability in the medium and with each other_.
 
 Each class will start with a warm-up activity that will aim to help us internalize:
 
 - Listening as a form of collaboration
 - Improvisation as collaboration
 
-Technical skills and programming will be approached as a creative process with a focus on prototyping as a methodology for project development.
+Technical skills and programming will be approached as a creative process with a focus on prototyping as a methodology for project development. The rapid development of projects in-class is meant to encourage the prototype approach to project development.
 
 So, in addition to our warm-up activity, the class will continue with either a lecture, usually programming focused, or workshop where the class breaks into smaller groups to create a work based on a given prompt. These group projects should use the skills that we just learned in class and also introduce your own artistic practice to the collaboration.
 
 For students in different time-zones:
 
 - Workshop days will be noted in advance. Given the collaborative nature of this class, you are encouraged to attend the workshop days
-- Lectures will be recorded and archived for asynchronous attendance
+- All classes will be recorded and archived for asynchronous attendance
 - When you cannot attend, please follow up on discord or by email. We will work something out!
 
 ## Course Requirements
@@ -143,9 +160,9 @@ The following readings will be provided to you and assigned throughout the semes
 
 | Activity                  | Weight |
 | :------------------------ | :----- |
-| Attendance, Participation | 33%    |
-| Weekly Activities         | 33%    |
-| Final Project             | 34%    |
+| Attendance, Participation | 40%    |
+| Weekly Activities         | 40%    |
+| Final Project             | 20%    |
 
 **Evaluation Criteria:** Assignments are evaluated on level of effort and participation. This does not mean the work has to be complex, but just that you tried. For instance, programming assignments should demonstrate effort even if they are not totally functional (i.e. a copy-pasted tutorial is not acceptable, however a modified tutorial to support an artistic concept is). Group assignments are evaluated on members&#39; level of participation.
 
