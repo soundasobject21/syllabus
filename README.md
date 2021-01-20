@@ -37,7 +37,7 @@ A research and production oriented workshop leading to a collective networked in
 - **Semester &amp; Year:** Spring 2021
 - **Course Credit:** 2 credits
 - **Time/Day:** Tuesdays, 7:00 PM – 8:50 PM Pacific. 1/25/2021 – 5/14/2021. Classes will be recorded.
-- **How to Access the Class:** Learn LMS and Discord (check learn.calarts.edu for Discord link)
+- **How to Access the Class:** [Learn LMS](https://learn.calarts.edu/courses/sound-as-object-media-space) and Discord (check [learn.calarts.edu/courses/sound-as-object-media-space](https://learn.calarts.edu/courses/sound-as-object-media-space) for Discord link)
 
 ## Instructor Information
 
