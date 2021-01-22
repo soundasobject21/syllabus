@@ -148,7 +148,6 @@ The following readings will be provided to you and assigned throughout the semes
 
 - [sparkfun.com](http://sparkfun.com/) - online store
 - [adafruit.com](http://adafruit.com/) - online store
-- [aliexpress.com](http://aliexpress.com/) - cheaper online store but slow shipping
 - [All Electronics](https://www.allelectronics.com/) - electronics store in LA
 - [Apex Electronics](https://www.apexsurplus.com/) - electronics surplus store in LA
 
