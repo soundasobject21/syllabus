@@ -110,6 +110,7 @@ Assignments will be in-class group projects. It is up to you if you prefer to co
 
 - Personal computer with USB port (an iPad will not work for this course)
 - Adapter for USB-A to USB-C if your computer only has USB-C ports
+- Zoom for class lectures and collaborations (camera optional)
 
 ### Required Reading / Materials
 
