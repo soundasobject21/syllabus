@@ -138,6 +138,7 @@ The following readings will be provided to you and assigned throughout the semes
 
 - _The Chairs Are Where the People Go: How to Live, Work, and Play in the City_, Misha Glouberman
 - _Sonic Meditations_, Pauline Oliveros
+- _WATER YAM_, George Brecht
 - _Deep Listening: A Bridge to Collaboration_, Pauline Oliveros
 - _Soundwalking_, Hildegard Westerkamp
 - _Museum Exhibit Prototyping as a Method of Community Conversation and Participation_, Kathleen McLean
