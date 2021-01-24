@@ -132,7 +132,7 @@ A basic electronics kit will be provided to you. The kit includes:
 - [Female/Male &#39;Extension&#39; Jumper Wires - 20 x 12&quot;](https://www.adafruit.com/product/1952)
 - [Infrared Proximity Sensor - Sharp GP2Y0A21YK](https://www.sparkfun.com/products/242)
 - [JST to Breadboard Jumper (3-pin)](https://www.sparkfun.com/products/13685)
-- [A multimeter](https://www.adafruit.com/product/2034) ([alt](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/ref=sr_1_5?dchild=1&keywords=multimeter&qid=1610222871&sr=8-5))
+- [A multimeter](https://www.amazon.com/AstroAI-Digital-Multimeter-Voltage-Tester/dp/B01ISAMUA6/) ([alt](https://www.adafruit.com/product/2034))
 
 The following readings will be provided to you and assigned throughout the semester. These readings do not need to be purchased.
 
